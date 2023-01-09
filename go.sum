@@ -1,3 +1,5 @@
+github.com/Code-Hex/pget v0.1.1 h1:r1x+Y8ixj7ywKZx0UKSrS5N6E7IUDKjGCgtR9khIZoo=
+github.com/Code-Hex/pget v0.1.1/go.mod h1:/KHDf9hfwKsL1uq+2Pr1XvK0EgzW0yY/geBkl13zNPU=
 github.com/Code-Hex/updater v0.0.0-20160712085121-c3f278672520 h1:AhI5ytq4dAam2scBpgeQY/9kz/covK9/NMyzO3e8350=
 github.com/Code-Hex/updater v0.0.0-20160712085121-c3f278672520/go.mod h1:RZRMRhdqo/22EdcyGiDJdIdCrptsRDEbqQ8/bswHV1E=
 github.com/Songmu/prompter v0.5.0 h1:uf60xlFItY5nW+rlLJ2XIUfaUReo4gUEeftuUeHpio8=

@@ -1,10 +1,10 @@
-module github.com/Code-Hex/pget
+module github.com/chikamim/pget
 
 go 1.18
 
 require (
+	github.com/Code-Hex/pget v0.1.1
 	github.com/Code-Hex/updater v0.0.0-20160712085121-c3f278672520
-	github.com/Songmu/prompter v0.5.0
 	github.com/asaskevich/govalidator v0.0.0-20161001163130-7b3beb6df3c4
 	github.com/cheggaaa/pb/v3 v3.0.8
 	github.com/jessevdk/go-flags v0.0.0-20160903113131-4cc2832a6e6d
@@ -15,12 +15,12 @@ require (
 )
 
 require (
+	github.com/Songmu/prompter v0.5.0 // indirect
 	github.com/VividCortex/ewma v1.1.1 // indirect
 	github.com/antonholmquist/jason v1.0.1-0.20160829104012-962e09b85496 // indirect
 	github.com/davecgh/go-spew v1.1.0 // indirect
 	github.com/dsnet/compress v0.0.1 // indirect
 	github.com/fatih/color v1.10.0 // indirect
-	github.com/frankban/quicktest v1.11.1 // indirect
 	github.com/golang/snappy v0.0.2 // indirect
 	github.com/mattn/go-colorable v0.1.8 // indirect
 	github.com/mattn/go-isatty v0.0.12 // indirect
